@@ -1,0 +1,27 @@
+{
+  "name": "major",
+  "version": "1.0.0",
+  "description": "Social media website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Anuj Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^3.5.7",
+    "mongodb-legacy": "^5.0.0",
+    "mongoose": "^7.0.0",
+    "nodemailer": "^6.4.11",
+    "nodemon": "^2.0.21",
+    "socket.io": "^2.3.0"
+  }
+}

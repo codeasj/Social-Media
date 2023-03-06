@@ -1,0 +1,7 @@
+sample username and password
+
+username: john123@gmail.com
+password: john123
+
+username: jean123@gmail.com
+passwrd:  jean123
