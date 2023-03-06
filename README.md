@@ -1,2 +1,7 @@
-# Social-media
- Users can like, comment and post everything, created using Node js, express.js and ejs for backend, MongoDB for database, HTML, CSS and Javascript for frontend.
+To run:
+
+Step-1 
+Run 'npm i' in terminal to get dependencies installed.
+
+Step-2 
+Run 'npm run start' to run project at http://localhost:3000/
